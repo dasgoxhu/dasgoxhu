@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudiante De Ingeniería En Software <br>Decimo Semestre<br>22 Años <br>Colombia/Antioquia/Copacabana<br>Me Gusta el Anime y los Videojuegos
+Español<br>Estudiante De Ingeniería En Software <br>Decimo Semestre<br>22 Años <br>Colombia/Antioquia/Copacabana<br>Me Gusta el Anime y los Videojuegos<br>English<br>Software Engineering Student <br>Tenth Semester<br>22 Years <br>Colombia/Antioquia/Copacabana<br>I like Anime and Video Games
+
+
 
 
 ## 🌐 Socials:
