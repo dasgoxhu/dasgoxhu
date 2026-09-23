@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animación de escritura corregida (Servidor Herokuapp estable) -->
+<!-- Animación de escritura estable -->
 <a href="https://github.com/dasgoxhu">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola,+soy+Daniel+Gómez+👋;Ingeniero+de+Software;Full+Stack+Developer" alt="Typing SVG" />
 </a>
@@ -55,11 +55,12 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/dasgoxhu">
-    <img src="https://github-readme-stats.vercel.app/api?username=dasgoxhu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/dasgoxhu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasgoxhu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
-  </a>
+<!-- Estadísticas usando alternativa estable (Profile Summary Cards) -->
+<a href="https://github.com/dasgoxhu">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasgoxhu&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
+</a>
+<a href="https://github.com/dasgoxhu">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=dasgoxhu&theme=tokyonight" width="48%" alt="Top Languages" />
+</a>
+
 </div>
