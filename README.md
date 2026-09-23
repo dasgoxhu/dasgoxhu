@@ -1,44 +1,63 @@
 <div align="center">
 
-# 👋 Hola, soy Daniel Gómez
-**Ingeniero de Software | 25 años | Copacabana, Colombia** 🇨🇴
+<!-- Animación de escritura minimalista -->
+<a href="https://github.com/dasgoxhu">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola,+soy+Daniel+Gómez+👋;Ingeniero+de+Software;Full+Stack+Developer" alt="Typing SVG" />
+</a>
 
-Desarrollador Full Stack apasionado por crear soluciones integrales, escalables y eficientes, desde la infraestructura hasta la experiencia de usuario. 
+<p><b>📍 Copacabana, Colombia 🇨🇴 | 🎂 25 años</b></p>
 
-[LinkedIn](https://www.linkedin.com/in/dasgoxhu/) • [GitHub](https://github.com/dasgoxhu) • [YouTube](https://www.youtube.com/@dasgoxhu)
+<p>Desarrollador Full Stack enfocado en crear arquitecturas limpias, interfaces modernas y soluciones eficientes.</p>
 
-</div>
+<br>
+
+<!-- Redes Sociales Minimalistas con bordes redondeados -->
+<a href="https://www.linkedin.com/in/dasgoxhu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=101827" alt="LinkedIn" /></a>
+<a href="https://github.com/dasgoxhu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=101827" alt="GitHub" /></a>
+<a href="https://www.youtube.com/@dasgoxhu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=101827" alt="YouTube" /></a>
+
+<br><br>
 
 ---
 
 ### 👨🏻‍💻 Sobre mí
 
-- 🎓 Ingeniero de Software titulado.
-- 💻 Especializado en desarrollo **Backend & Frontend** (con fuerte enfoque en Angular y procesamiento de datos con Python).
-- 🚀 Explorando y aprendiendo constantemente sobre **Ciberseguridad** e **Inteligencia Artificial**.
-- 👾 En mi tiempo libre: Amante del anime y los videojuegos.
-- 🤝 Siempre abierto a colaborar en proyectos innovadores y retos tecnológicos.
+- 🎓 **Ingeniero de Software** titulado, en constante aprendizaje.
+- 💡 Especializado en el ecosistema **JavaScript/TypeScript, PHP y Python**.
+- ⚡ Construyendo aplicaciones escalables y eficientes con **Laravel, Vue.js y Node.js**.
+- 🔒 Fuerte interés en la infraestructura (**DevOps**), arquitecturas robustas y Ciberseguridad.
+- 👾 En mi tiempo libre, sigo disfrutando de un buen anime y los videojuegos.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <p><strong>Lenguajes</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp&theme=dark" alt="Lenguajes" />
-  
-  <p><strong>Frameworks & Librerías</strong></p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,express,spring&theme=dark" alt="Frameworks" />
-  
-  <p><strong>Bases de Datos & Herramientas</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,nginx&theme=dark" alt="Herramientas" />
-</div>
+<br>
+
+<!-- Stack Tecnológico Organizado -->
+<p><strong>L E N G U A J E S</strong></p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,py&theme=dark" alt="Lenguajes" />
+
+<br><br>
+
+<p><strong>F R A M E W O R K S &nbsp; & &nbsp; L I B R E R Í A S</strong></p>
+<img src="https://skillicons.dev/icons?i=laravel,vue,nodejs&theme=dark" alt="Frameworks" />
+
+<br><br>
+
+<p><strong>D E V O P S &nbsp; & &nbsp; H E R R A M I E N T A S</strong></p>
+<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git&theme=dark" alt="DevOps y Herramientas" />
+
+<br><br>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasgoxhu&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="160px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasgoxhu&theme=transparent&hide_border=true&layout=compact" height="160px" alt="Top Languages" />
+<br>
+
+<!-- Estadísticas corregidas con bordes redondeados y colores que no se rompen -->
+<img src="https://github-readme-stats.vercel.app/api?username=dasgoxhu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165px" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasgoxhu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6366F1" height="165px" alt="Top Languages" />
+
 </div>
