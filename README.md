@@ -55,12 +55,13 @@
 
 <br>
 
-<!-- Estadísticas usando alternativa estable (Profile Summary Cards) -->
-<a href="https://github.com/dasgoxhu">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasgoxhu&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
-</a>
-<a href="https://github.com/dasgoxhu">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=dasgoxhu&theme=tokyonight" width="48%" alt="Top Languages" />
-</a>
+<div align="center">
+  <a href="https://github.com/dasgoxhu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasgoxhu&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
+  </a>
+  <a href="https://github.com/dasgoxhu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasgoxhu&theme=tokyonight" width="48%" alt="Repos per Language" />
+  </a>
+</div>
 
 </div>
