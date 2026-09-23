@@ -55,8 +55,11 @@
 
 <br>
 
-<!-- Estadísticas corregidas (API limpia sin sobrecarga de parámetros) -->
-<img src="https://github-readme-stats.vercel.app/api?username=dasgoxhu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165px" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasgoxhu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165px" alt="Top Languages" />
-
+<div align="center">
+  <a href="https://github.com/dasgoxhu">
+    <img src="https://github-readme-stats.vercel.app/api?username=dasgoxhu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dasgoxhu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasgoxhu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+  </a>
 </div>
